@@ -1,0 +1,1 @@
+# absensi-QR-privacy
